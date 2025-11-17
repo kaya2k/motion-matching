@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "black>=25.11.0",
+    "bvhio>=1.5.4",
     "numpy>=2.0.2",
 ]
